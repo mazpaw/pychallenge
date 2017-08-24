@@ -1,1 +1,1 @@
-# pychallenge
+Simple solution of python challenge
